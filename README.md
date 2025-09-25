@@ -17,7 +17,7 @@ This app fetches real-time weather data using an API and displays the current te
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6+)**  
-- **OpenWeatherMap API** (or whichever API you used)
+- **OpenWeatherMap API**
 
 ---
 
