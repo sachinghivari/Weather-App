@@ -24,7 +24,7 @@ This app fetches real-time weather data using an API and displays the current te
 ## 📷 Screenshots  
 
 ### Home Page
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./Screenshot.png)
 
 ---
 
